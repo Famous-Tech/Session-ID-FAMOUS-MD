@@ -57,28 +57,29 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*SUPER MD ONLINE*
+*FAMOUS MD CONNECTED SUCCESFULLY*
 ____________________________________
 ╔════◇
 ║『 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍𝙎』
 
-║ ❒ *Tosh Tech* : _https://wa.me/254111523038_
+║ ❒ *FAMOUS-TECH* : https://wa.me/14099953525
 
-║ ❒ *Ibrahim Adams* : _https://wa.me/message/74F2PC4JA4F3P1_
+║ ❒ FAMOUS-TECH* : https://wa.me/50943782508 
 
 ╚════════════════════❒
 ╔═════◇
 ║ 『••• OWNER INFO •••』
 
-║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/K5qhnWJMAZE4lZYnU1Bluk_
+║ ❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: https://chat.whatsapp.com/EcgJ3ziQIUMD7GQB2sWZar
 
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaWGyGVJZg48vgpHBa31_
+║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: https://whatsapp.com/channel/0029Vakc6q67YScvIVhOn10F
 
 ╚════════════════════╝ 
- *TOSH TECH*
+ *MADE WITH 🤍*
+ *MADE IN HAÏTI* 🇭🇹
 ___________________________________
 
-Don't Forget To Give Star To My Repo`
+Follow me on github : https://github.com/Famous-Tech`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
