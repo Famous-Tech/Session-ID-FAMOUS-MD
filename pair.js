@@ -57,12 +57,12 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*FAMOUS MD CONNECTED SUCCESFULLY*
+*FAMOUS MD CONNECTÉ avec succès*
 ____________________________________
 ╔════◇
 ║『 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍𝙎』
 
-║ ❒ *FAMOUS-TECH* : https://wa.me/14099953525
+║ ❒ *FAMOUS-TECH*: https://wa.me/50943782508 
 
 ║ ❒ FAMOUS-TECH* : https://wa.me/50943782508 
 
