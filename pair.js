@@ -80,7 +80,7 @@ ____________________________________
 ___________________________________
 
 Follow me on github : https://github.com/Famous-Tech`
- await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
+ await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:FAMOUS-MD + session})
  
 
         await delay(100);
